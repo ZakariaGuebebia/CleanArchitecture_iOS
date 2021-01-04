@@ -1,0 +1,65 @@
+{
+    "header": {
+        "statusCode": "000",
+        "title": "",
+        "key": "",
+        "providerCode": "01",
+        "providerDescription": "Fintune API",
+        "messageType": "",
+        "returnCodeDesc": "Success"
+    },
+    "body": {
+        "type": "LIST_RESPONSE",
+        "type": null,
+        "result": [
+            {
+                "id": "8a748030750e2dcb01750e3495fe0000",
+                "badgeType": "DREAM_BIG",
+                "photo": "https://source.unsplash.com/daily",
+                "description": "Create one goal and start to save money",
+                "name": "Dream Big",
+                "deactivatedPhoto": "https://source.unsplash.com/random"
+            },
+            {
+                "id": "8a748030750e2dcb01750e36a0520001",
+                "badgeType": "FOXY_SAVER",
+                "photo": "https://source.unsplash.com/user/erondu/daily",
+                "description": "Save money and achieve one goal",
+                "name": "Foxy Saver",
+                "deactivatedPhoto": "https://source.unsplash.com/random"
+            },
+            {
+                "id": "8a748030750e2dcb01750e38a41e0002",
+                "badgeType": "SUPER_FOX",
+                "photo": "https://source.unsplash.com/weekly?water",
+                "description": "Save more money and achieve two goals",
+                "name": "Super Saver",
+                "deactivatedPhoto": "https://source.unsplash.com/random"
+            },
+            {
+                "id": "8a748030750e2dcb01750e3a26750003",
+                "badgeType": "SMART_OWL",
+                "photo": "https://source.unsplash.com/100x100/?nature,water",
+                "description": "Learn about money with your parents",
+                "name": "Smart Move",
+                "deactivatedPhoto": "https://source.unsplash.com/random"
+            },
+            {
+                "id": "8a748030750e2dcb01750e3bb52f0004",
+                "badgeType": "BEST_FRIEND",
+                "photo": "https://source.unsplash.com/WLUHO9A_xik/100x100",
+                "description": "Invite a friend to your League",
+                "name": "Best Friend",
+                "deactivatedPhoto": "https://source.unsplash.com/random"
+            },
+            {
+                "id": "8a748030750e2dcb01750e3de08a0005",
+                "badgeType": "CASH_COW",
+                "photo": "https://source.unsplash.com/random",
+                "description": "Share your goal with your uncle or aunt",
+                "name": "Family Ace",
+                "deactivatedPhoto": "https://source.unsplash.com/random"
+            }
+        ]
+    }
+}
